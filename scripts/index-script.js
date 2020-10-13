@@ -1,1 +1,3 @@
-window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+function lolMoment() {
+  window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+}
