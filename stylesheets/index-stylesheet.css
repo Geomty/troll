@@ -1,0 +1,9 @@
+body {
+  background-color: #000000;
+}
+button {
+  height: 500px;
+  width: 500px;
+  background-color: #ffffff;
+  font-size: 100px;
+}
